@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.JavaBasics/1.JavaBasics.iml" filepath="$PROJECT_DIR$/1.JavaBasics/1.JavaBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSpringBoot.iml" filepath="$PROJECT_DIR$/JavaSpringBoot.iml" />
     </modules>
   </component>
