@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/1.2 Type Conversion/1.2 Type Conversion.iml" filepath="$PROJECT_DIR$/1.2 Type Conversion/1.2 Type Conversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.3 Operator Operation/1.3 Operator Operation.iml" filepath="$PROJECT_DIR$/1.3 Operator Operation/1.3 Operator Operation.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.JavaBasics/1.HelloPrint.iml" filepath="$PROJECT_DIR$/1.JavaBasics/1.HelloPrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.Inner Class/17.Inner Class.iml" filepath="$PROJECT_DIR$/17.Inner Class/17.Inner Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.Interface/18.Interface.iml" filepath="$PROJECT_DIR$/18.Interface/18.Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19.Enum/19.Enum.iml" filepath="$PROJECT_DIR$/19.Enum/19.Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSpringBoot.iml" filepath="$PROJECT_DIR$/JavaSpringBoot.iml" />
     </modules>
   </component>
