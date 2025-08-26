@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/17.Inner Class/17.Inner Class.iml" filepath="$PROJECT_DIR$/17.Inner Class/17.Inner Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/18.Interface/18.Interface.iml" filepath="$PROJECT_DIR$/18.Interface/18.Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/19.Enum/19.Enum.iml" filepath="$PROJECT_DIR$/19.Enum/19.Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.Exceptions/20.Exceptions.iml" filepath="$PROJECT_DIR$/20.Exceptions/20.Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSpringBoot.iml" filepath="$PROJECT_DIR$/JavaSpringBoot.iml" />
     </modules>
   </component>
