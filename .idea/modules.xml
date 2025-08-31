@@ -11,8 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/20.Exceptions/20.Exceptions.iml" filepath="$PROJECT_DIR$/20.Exceptions/20.Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/21.InputStream/21.InputStream.iml" filepath="$PROJECT_DIR$/21.InputStream/21.InputStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/22.Threads/22.Threads.iml" filepath="$PROJECT_DIR$/22.Threads/22.Threads.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1.JavaBasics/23.CollectionAPI/23.CollectionAPI.iml" filepath="$PROJECT_DIR$/1.JavaBasics/23.CollectionAPI/23.CollectionAPI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1.JavaBasics/24.JUnit/24.JUnit.iml" filepath="$PROJECT_DIR$/1.JavaBasics/24.JUnit/24.JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.CollectionAPI/23.CollectionAPI.iml" filepath="$PROJECT_DIR$/23.CollectionAPI/23.CollectionAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24.RecordClasses/24.RecordClasses.iml" filepath="$PROJECT_DIR$/24.RecordClasses/24.RecordClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25.JUnit/25.JUnit.iml" filepath="$PROJECT_DIR$/25.JUnit/25.JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSpringBoot.iml" filepath="$PROJECT_DIR$/JavaSpringBoot.iml" />
     </modules>
   </component>
