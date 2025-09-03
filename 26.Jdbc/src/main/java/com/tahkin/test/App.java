@@ -26,11 +26,11 @@ public class App {
         String url = "jdbc:mysql://localhost:3306/employees";
 
         // MySQL database username and password
-        String uname = "root";       // your DB username
-        String pass = "";   // your DB password
+        String uname = "nikhat";       // your DB username
+        String pass = "Nikhat@7687";   // your DB password
 
         // SQL query: fetch all columns from the "students" table
-        String query = "SELECT * FROM students";
+        String query = "INSERT into students values(105,'Samiul','Bangaluru')";
 
         // Establish connection with MySQL using DriverManager
         Connection con = DriverManager.getConnection(url, uname, pass);
@@ -39,19 +39,21 @@ public class App {
         Statement st = con.createStatement();
 
         // Execute the query and store results inside ResultSet
-        ResultSet rs = st.executeQuery(query);
+        int count = st.executeUpdate(query);
 
-        // Loop through the ResultSet (row by row)
-        while (rs.next()) {
-            // Fetch values from each column
-            // Indexes: 1 = id, 2 = name, 3 = city
-            int id = rs.getInt(1);       // get "id" column (1st column)
-            String name = rs.getString(2); // get "name" column (2nd column)
-            String city = rs.getString(3); // get "city" column (3rd column)
+//        // Loop through the ResultSet (row by row)
+//        while (rs.next()) {
+//            // Fetch values from each column
+//            // Indexes: 1 = id, 2 = name, 3 = city
+//            int id = rs.getInt(1);       // get "id" column (1st column)
+//            String name = rs.getString(2); // get "name" column (2nd column)
+//            String city = rs.getString(3); // get "city" column (3rd column)
+//
+//            // Print the student record
+//            System.out.println(id + " : " + name + " : " + city);
+//        }
 
-            // Print the student record
-            System.out.println(id + " : " + name + " : " + city);
-        }
+        System.out.println(count + "row/s affected ");
 
         // Close the statement to release resources
         st.close();
