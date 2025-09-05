@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/26.JDBC/pom.xml" />
         <option value="$PROJECT_DIR$/26.Jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/27.Hibernate/pom.xml" />
       </list>
     </option>
   </component>

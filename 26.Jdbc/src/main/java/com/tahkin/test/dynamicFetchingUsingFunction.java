@@ -2,7 +2,7 @@ package com.tahkin.test;
 
 import java.sql.*;
 
-public class dynamicInsertUsingFunction {
+public class dynamicFetchingUsingFunction {
     public static void main(String[] args) throws Exception {
 
         studentsDataAcessObject obj = new studentsDataAcessObject();
