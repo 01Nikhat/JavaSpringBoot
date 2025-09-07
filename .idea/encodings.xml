@@ -3,9 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/26.Jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/26.Jdbc/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/27.Hibernate/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/27.Hibernate/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/28.HibernateMappingRelation/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/28.HibernateMappingRelation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.1.Hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.1.Hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.2.HibernateMappingRelation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.2.HibernateMappingRelation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.3.HibernateCaching/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.3.HibernateCaching/src/main/resources" charset="UTF-8" />
   </component>
 </project>
