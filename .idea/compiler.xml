@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="26.Jdbc" />
-        <module name="27.4.HQL-Hibernate" />
         <module name="27.3.HibernateCaching" />
       </profile>
     </annotationProcessing>
@@ -15,6 +14,9 @@
       <module name="26.JDBC" target="1.8" />
       <module name="27.1.Hibernate" target="1.8" />
       <module name="27.2.HibernateMappingRelation" target="1.8" />
+      <module name="27.5.HibernateStateCycle" target="1.5" />
+      <module name="27.5.HibernateStatesCycle" target="21" />
+      <module name="27.5.HiberStateCycle" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

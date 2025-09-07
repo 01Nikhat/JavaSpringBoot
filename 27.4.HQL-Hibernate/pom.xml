@@ -5,10 +5,13 @@
     <groupId>com.tahkin.test</groupId>
     <artifactId>HibernateMappingRelation</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>28.HibernateMappingRelation</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>27.5.HibernateStatesCycle</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

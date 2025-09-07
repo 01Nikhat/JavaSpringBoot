@@ -9,7 +9,13 @@
     <file url="file://$PROJECT_DIR$/27.2.HibernateMappingRelation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/27.3.HibernateCaching/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/27.3.HibernateCaching/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.4.HQL-Hibernate/27.5.HibernateStatesCycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.4.HQL-Hibernate/27.5.HibernateStatesCycle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/27.4.HQL-Hibernate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/27.4.HQL-Hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.5.HiberStateCycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.5.HiberStateCycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.5.HibernateStateCycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27.5.HibernateStateCycle/src/main/resources" charset="UTF-8" />
   </component>
 </project>

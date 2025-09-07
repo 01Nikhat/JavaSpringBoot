@@ -30,6 +30,7 @@ public class App {
         for (Students s : students) {
             System.out.println(s);
         }
+//-------------------query 2-----------------------------------------
 
         session1.getTransaction().commit();
         session1.close();

@@ -10,7 +10,16 @@
         <option value="$PROJECT_DIR$/28.HibernateMappingRelation/pom.xml" />
         <option value="$PROJECT_DIR$/27.3.HibernateCaching/pom.xml" />
         <option value="$PROJECT_DIR$/27.4.HQL-Hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/27.5.HiberStateCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/27.5.HibernateStateCycle/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/27.4.HQL-Hibernate/27.5.HibernateStatesCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/27.5.HiberStateCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/27.5.HibernateStateCycle/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
