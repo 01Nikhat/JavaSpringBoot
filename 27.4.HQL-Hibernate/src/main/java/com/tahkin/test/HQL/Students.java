@@ -1,4 +1,4 @@
-package com.tahkin.test.StoringInDB;
+package com.tahkin.test.HQL;
 
 
 import javax.persistence.Entity;
