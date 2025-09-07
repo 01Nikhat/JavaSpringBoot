@@ -7,11 +7,11 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>28.HibernateMappingRelation</name>
+    <name>27.4.HQL-Hibernate</name>
     <url>http://maven.apache.org</url>
-    <modules>
-        <module>27.5.HibernateStatesCycle</module>
-    </modules>
+<!--    <modules>-->
+<!--        <module>27.4.HQL-Hibernate</module>-->
+<!--    </modules>-->
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
