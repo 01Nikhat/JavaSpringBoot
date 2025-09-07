@@ -58,6 +58,11 @@ public class App {
         session2.getTransaction().commit();
         session2.close();
 
+        // ✅ Close SessionFactory to stop background threads
+        sf.close();
+
+        System.out.println("Program finished, Hibernate shutdown.");
+
         // ---------------- Explanation ----------------
         // First time (Session1) -> DB query is executed and entity is cached in L2.
         // Second time (Session2) -> DB query is skipped, entity is fetched from L2 cache.

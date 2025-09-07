@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/27.Hibernate/pom.xml" />
         <option value="$PROJECT_DIR$/28.HibernateMappingRelation/pom.xml" />
         <option value="$PROJECT_DIR$/27.3.HibernateCaching/pom.xml" />
+        <option value="$PROJECT_DIR$/27.4.HQL-Hibernate/pom.xml" />
       </list>
     </option>
   </component>

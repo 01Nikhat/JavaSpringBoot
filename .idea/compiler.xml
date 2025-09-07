@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="26.Jdbc" />
+        <module name="27.4.HQL-Hibernate" />
         <module name="27.3.HibernateCaching" />
       </profile>
     </annotationProcessing>
