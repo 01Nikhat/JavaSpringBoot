@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="26.Jdbc" />
         <module name="27.3.HibernateCaching" />
+        <module name="28.JPA" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
