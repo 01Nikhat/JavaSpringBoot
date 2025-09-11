@@ -15,13 +15,13 @@ public class InternalWorkingOfSpringBootApplication implements CommandLineRunner
 
 
 
-    // second way is field way injection using @Autowired annotation
+    // first way is field way injection using @Autowired annotation
     //this annotation tells to frmaework creating object for the class and need dependency
     // here we cannot use final keayword like private final RazorPaymentService paymentService;
    // @Autowired
     private final PaymentService paymentService;
 
-    // there are two way first way is make constructor and pass the function object as an argument
+    // there are second way is make constructor and pass the function object as an argument
     public InternalWorkingOfSpringBootApplication(PaymentService paymentService){
         this.paymentService = paymentService;
     }
