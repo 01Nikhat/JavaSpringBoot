@@ -8,6 +8,7 @@ import lombok.ToString;
 import org.hibernate.annotations.CreationTimestamp;
 
 import java.time.LocalDate;
+import java.util.List;
 
 @Entity
 @ToString
@@ -40,5 +41,11 @@ public class Patient {
     @Enumerated(EnumType.STRING)
     private BloodGroupType bloodGroup;
 
+    @OneToOne()
+    @JoinColumn(name = "patient_insurance_id")
+    private Insurance insurance;
+
+    @OneToMany(mappedBy = "patient")
+    private List<Appointment> appointment;
 
 }
